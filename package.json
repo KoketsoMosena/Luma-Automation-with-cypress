@@ -1,0 +1,14 @@
+{
+  "name": "luma-cypress-automation",
+  "version": "1.0.0",
+  "description": "Luma Automation using Cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Batsamayi QA division",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
